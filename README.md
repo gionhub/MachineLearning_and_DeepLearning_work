@@ -11,15 +11,9 @@ Mis Habilidades
 
 Machine Learning : Tengo experiencia en la construcción de modelos de Machine Learning para una amplia gama de aplicaciones, desde clasificación hasta regresión. Trabajó con la biblioteca TensorFlow y Keras para desarrollar soluciones precisas.
 
-Mis Habilidades
-
 Deep Learning : exploró el mundo de las redes neuronales profundas y trabajó en proyectos que involucraban CNNs (Convolutional Neural Networks), RNNs (Recurrent Neural Networks).
 
-Mis Habilidades
-
 Procesamiento de Lenguaje Natural (NLP) : Desarrolló modelos de procesamiento de lenguaje natural para tareas como clasificación de sentimientos, traducción automática y generación de texto utilizando bibliotecas como NLTK y Transformers.
-
-Mis Habilidades
 
 Visión por Computadora : Tengo experiencia en aplicaciones de visión por computadora, incluyendo detección de objetos y reconocimiento facial.
 
